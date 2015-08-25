@@ -18,6 +18,7 @@
 - put these lines to the deployment box
 
 >git remote add OpenShift your_repo
->git push OpenShift master
+
+>git push -f OpenShift master
 
 - push to your repo ... done
